@@ -1,0 +1,3 @@
+export default {
+  UPDATE_INDEX_BOTTOM: 'UPDATE_INDEX_BOTTOM',
+};
